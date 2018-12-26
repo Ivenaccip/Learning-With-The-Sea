@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Principal/Inicio.unity
+    guid: 9ad4079214dbc254384803ae755d39fe
+  - enabled: 1
+    path: Assets/Scenes/Principal/Aprendiendo_Mar.unity
+    guid: 1cba6a17db1d72d4e9d98184629f6eb4
+  - enabled: 1
+    path: Assets/Scenes/Videos/VideoSuma.unity
+    guid: 3006cb231ac7bde4687fcbfc3d8e4629
+  - enabled: 1
+    path: Assets/Scenes/Videos/VideoResta.unity
+    guid: f5d4c010b67a4b348bfc1fd6ebcb0c5a
+  - enabled: 1
+    path: Assets/Scenes/Videos/VideoMultiplicar.unity
+    guid: 00382f5cd47c43e42ba9d615a30d851b
+  - enabled: 1
+    path: Assets/Scenes/Videos/VideoDividir.unity
+    guid: 6e5421b37a477774d92c9b5b3b198ef3
+  - enabled: 1
+    path: Assets/Scenes/Multiplicar/MultiplicarScene.unity
+    guid: e900dd831a2a8474ab3308e67e7174e3
+  - enabled: 1
+    path: Assets/Scenes/Multiplicar/SceneMulFac.unity
+    guid: 254281c2c7d435c418050f77e2c37b70
+  - enabled: 1
+    path: Assets/Scenes/Multiplicar/SceneMulFac1.unity
+    guid: 8805ff2b5a50e764db1268bf6d0b13d1
+  - enabled: 1
+    path: Assets/Scenes/Multiplicar/SceneMulFac2.unity
+    guid: 340a329030baab1479b20283fa38dd6b
+  - enabled: 1
+    path: Assets/Scenes/Multiplicar/SceneMulDif.unity
+    guid: 32bd47c5223b465499c6638c8b86774e
+  - enabled: 1
+    path: Assets/Scenes/Multiplicar/SceneMulDif1.unity
+    guid: 6b01cbed98a8d9c438fdb66ca24f9230
+  - enabled: 1
+    path: Assets/Scenes/Multiplicar/SceneMulDif2.unity
+    guid: afbdff74261b39547a7dd835bd78ec3e
+  - enabled: 1
+    path: Assets/Scenes/Dividir/DividirScene.unity
+    guid: b3955ab0ee4362f4cbadff6409826d36
+  - enabled: 1
+    path: Assets/Scenes/Dividir/SceneDivFac.unity
+    guid: 5f32db6e50b1b32458563c423feed327
+  - enabled: 1
+    path: Assets/Scenes/Dividir/SceneDivFac1.unity
+    guid: 90ceeb9eb27feab468462f23914b0e04
+  - enabled: 1
+    path: Assets/Scenes/Dividir/SceneDivFac2.unity
+    guid: 0a6fe19f9c10b0d4690eaf28ce4a95db
+  - enabled: 1
+    path: Assets/Scenes/Dividir/SceneDivDif.unity
+    guid: 08d5fb2d46abde54f95c71881c7ff73a
+  - enabled: 1
+    path: Assets/Scenes/Dividir/SceneDivDif1.unity
+    guid: e9b6916deeb6c194cb597aed40dd7f0d
+  - enabled: 1
+    path: Assets/Scenes/Dividir/SceneDivDif2.unity
+    guid: 494fc287141c7204fb995cae51ecefaa
+  - enabled: 1
+    path: Assets/Scenes/Resta/RestaScene.unity
+    guid: 17cc41317400ad64aab092f795e14a10
+  - enabled: 1
+    path: Assets/Scenes/Resta/SceneResFac.unity
+    guid: 03a74478e780e1e489dbb20e2fb2ccb8
+  - enabled: 1
+    path: Assets/Scenes/Resta/SceneResFac1.unity
+    guid: ff737f13a409fcc4799f3305bd241357
+  - enabled: 1
+    path: Assets/Scenes/Resta/SceneResFac2.unity
+    guid: 86bf4bc4e251c7242b71cac78156ad63
+  - enabled: 1
+    path: Assets/Scenes/Resta/SceneResDif.unity
+    guid: 321b98cbc066c624dbbecd9b25e3edd0
+  - enabled: 1
+    path: Assets/Scenes/Resta/SceneResDif1.unity
+    guid: 4f395ac6d56649a48b8cd44d95021d30
+  - enabled: 1
+    path: Assets/Scenes/Resta/SceneResDif2.unity
+    guid: 557d93eab68cd8e4da960ea5a5fe5234
+  - enabled: 1
+    path: Assets/Scenes/Suma/SumaScene.unity
+    guid: 64ac4082396642240923b95d141183dd
+  - enabled: 1
+    path: Assets/Scenes/Suma/SceneSumFac.unity
+    guid: 8b0aa650ea140bc4e9a83ba8b2b7e39f
+  - enabled: 1
+    path: Assets/Scenes/Suma/SceneSumFac1.unity
+    guid: 83abda8e70ee29a40bca578b768beca6
+  - enabled: 1
+    path: Assets/Scenes/Suma/SceneSumFac2.unity
+    guid: f8e1d8d49c38d3145a647ec961ec799e
+  - enabled: 1
+    path: Assets/Scenes/Suma/SceneSumDif.unity
+    guid: 8f356ab4c55f955498e9ce175c80e5b7
+  - enabled: 1
+    path: Assets/Scenes/Suma/SceneSumDif1.unity
+    guid: c5f57da4c2b12f94ea22c0dea18b41e8
+  - enabled: 1
+    path: Assets/Scenes/Suma/SceneSumDif2.unity
+    guid: 6a43df96e34e775478e029b8ef890501
+  - enabled: 1
+    path: Assets/Scenes/Principal/Win.unity
+    guid: f1b0909c602d6634c85b7ab27d6f07ea
+  - enabled: 1
+    path: Assets/Scenes/Principal/Quest.unity
+    guid: a6fbcd179715ce445a161fec3e240619
+  - enabled: 1
+    path: Assets/Scenes/Principal/Creditos.unity
+    guid: 8fbe25a9cb6c6124daaa3d7aac80fe52
+  m_configObjects: {}

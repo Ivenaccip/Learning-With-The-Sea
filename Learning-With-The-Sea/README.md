@@ -1,2 +1,0 @@
-# Learning-With-The-Sea
-This is my first Indie game. I made it because in México some kids go to the jail with them mothers when they are babys and they can't leave the jail until they are 6 years old. When they exit from the jail, they go to an orphanage where they are helped to reintegrate to the society. Despite all the help that they have, they don't have enought education to go to a public school. My idea is help them with serius games and gamification.
