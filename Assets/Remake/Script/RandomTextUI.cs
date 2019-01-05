@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class RandomTextUI : MonoBehaviour {
 
 	public GameObject NumText1;
+	public GameObject NumText2;
 	
 	
 	public int AleNum;
@@ -26,16 +27,19 @@ public class RandomTextUI : MonoBehaviour {
 		{
 			
 			NumText1.GetComponent<Text> ().text = "Chocolate";
+			NumText2.GetComponent<Text> ().text = "Cereza";
 		}
 
 		if (AleNum == 2)
 		{
 			NumText1.GetComponent<Text> ().text = "Fresa";
+			NumText2.GetComponent<Text> ().text = "Frambuesa";
 		}
 
 		if (AleNum == 3)
 		{
 			NumText1.GetComponent<Text> ().text = "Vainilla";
+			NumText2.GetComponent<Text> ().text = "Verde";
 		}
 	}
 
