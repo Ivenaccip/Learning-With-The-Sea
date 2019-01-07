@@ -116,4 +116,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Principal/Creditos.unity
     guid: 8fbe25a9cb6c6124daaa3d7aac80fe52
+  - enabled: 1
+    path: Assets/Remake/Scene/Testing.unity
+    guid: acb004f877a86594ab92af8757a7c908
+  - enabled: 1
+    path: Assets/Remake/Scene/Testing2.unity
+    guid: 3b3869c98bf10224b9c2b46a1fa2aec8
   m_configObjects: {}
